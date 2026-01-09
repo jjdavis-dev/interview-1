@@ -25,7 +25,7 @@ your-name.js
 
 ## 4. Write the Fetch Code
 
-Inside your file fetch this url: https://jsonplaceholder.typicode.com/users
+Inside your file fetch this url: https://jsonplaceholder.typicode.com/users. Print in the terminal the results.
 
 
 ---
@@ -34,7 +34,7 @@ Inside your file fetch this url: https://jsonplaceholder.typicode.com/users
 
 
 
----
+
 
 ## 6. Create a Pull Request
 
